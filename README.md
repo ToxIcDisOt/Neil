@@ -1,2 +1,0 @@
-# memeapi
-meme api
